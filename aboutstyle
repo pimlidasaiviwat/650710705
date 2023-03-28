@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(218, 238, 248);
+}
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
